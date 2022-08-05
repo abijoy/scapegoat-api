@@ -1,3 +1,2 @@
 django
-pygooglenews
-spotipy
+setuptools<58
